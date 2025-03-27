@@ -5,3 +5,5 @@ LAB-02https://github.com/2303A51671/ADM-LAB/blob/main/DMLAB02.ipynb
 LAB-03https://github.com/2303A51671/ADM-LAB/blob/main/ADM_Lab03%20(3).ipynb
 
 Lab-04https://github.com/2303A51671/ADM-LAB/blob/main/ADM_4.ipynb
+
+Lab-05https://github.com/2303A51671/ADM-LAB/blob/main/ADM_lab_05.ipynb
